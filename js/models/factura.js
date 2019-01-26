@@ -4,5 +4,6 @@ class Factura{
         this.fac_fech=new Date();
         this.fac_serie="";
         this.fac_nro="";
+        this.fac_direc="";
     }
 }
